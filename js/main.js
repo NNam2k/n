@@ -11,6 +11,7 @@ $(document).ready(function() {
 })
 
 function init(){
+   var audio = new Audio('sound/My Audio.mp3');
     $('#title').text(CONFIG.title)
     $('#desc').text(CONFIG.desc)
     $('#yes').text(CONFIG.btnYes)
