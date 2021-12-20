@@ -11,5 +11,5 @@ const CONFIG = {
     mess: 'Ỏ oke ems :33333 ',
     messDesc: 'Tối mai 8h anh qua đón nhé công chúa, đ ra t xách cl đi :) .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100014594463973'
+    messLink: 'https://www.facebook.com/ngocnam.pham2009/'
 }
