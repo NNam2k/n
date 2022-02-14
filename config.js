@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Hmmm hi!',
     introDesc: `Khi ma cau bam vao cai link nay nghia la cau cung k co ai de di choi cung dung khumm?? `,
     btnIntro: 'Đúng rồi, đang ế mà mn 🥲  ',
-    title: 'T7 cung nn ?? ',
+    title: 'Valentine cung nn ?? ',
     btnYes: 'Di chu tr oii <3 ',
     btnNo: 'Không, ham l a? ',
     question:'The may h nhi? ',
